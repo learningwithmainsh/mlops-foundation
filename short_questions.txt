@@ -1,0 +1,48 @@
+Q.1.What does MLOps stand for?
+Ans. Machine Learning Operations
+Explanation: MLOps stands for Machine Learning Operations, which refers to the practices and tools that operationalize the machine learning lifecycle.
+
+Q2. Which stage involves converting a trained machine learning model into a form that can be used for making predictions?
+Ans.Model Deployment 
+Explanation: Model Deployment is the stage that involves converting a trained machine learning model into a form that can be used for making predictions.
+
+Q3. What is the primary goal of MLOps?
+Ans:Ensuring Model Reliability in Production
+Explanation:The primary goal of MLOps is to enable the continuous integration and delivery of high-quality, reliable machine learning models into production.
+
+Q4.Which tool is commonly used for managing and serving machine learning models in production?
+Ans:Kubernetes
+Explanation:Kubernetes is commonly used for managing and serving machine learning models in production due to its scalability and flexibility.
+
+Q5.In MLOps, what is the purpose of feature engineering?
+Ans:Transforming Data for Model Training
+Explanation:Feature engineering aims to transform raw data into a format that is suitable for machine learning model training, thereby improving the model's performance.
+
+Q6.What does CI/CD stand for in the context of MLOps?
+Ans: Continuous Integration/Continuous Deployment
+Explanation:CI/CD stands for Continuous Integration/Continuous Deployment, which emphasizes the automation and integration of various stages in the machine learning lifecycle.
+
+Q7.What does A/B testing enable in the context of MLOps?
+Ans:Performance Comparison of Model Versions
+Explanation:A/B testing enables the comparison of different versions of a model or system, allowing for data-driven decisions on performance improvements before deploying changes to production.
+
+Q7.What is the role of containerization in MLOps?
+Ans:Consistent Deployment of Models
+Explanation:Containerization enables consistent and reproducible deployment of machine learning models by encapsulating the model, its dependencies, and runtime environment.
+
+Q8.What are the benefits of implementing a feature store in MLOps?
+Ans:Centralized Feature Management
+Explanation:A feature store centralizes the management of engineered features, improving data quality, consistency, and governance for model training and serving.
+
+Q9.In MLOps, what does 'shift-left' refer to?
+Ans:Early Integration of Key Considerations
+Explanation:'Shift-left' refers to the practice of integrating and addressing key considerations, such as testing and security, earlier in the machine learning development lifecycle.
+
+Q10.What does 'data drift' refer to in the context of MLOps?
+Ans:Changes in Input Data Distribution
+Explanation:'Data drift' refers to the changes in the input data distribution over time, which can significantly affect model performance and predictions.
+
+
+
+
+
